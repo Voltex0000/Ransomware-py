@@ -43,5 +43,5 @@ This tool is for EDUCATIONAL USE ONLY. The developers are not responsible for an
 
    Why Python Files Obfsucated ??
 
-    Anyone Editing The tools And seling the tools but im publish for free
+    Anyone Editing The tools And seling the tools but im publishing the tools for free
   
