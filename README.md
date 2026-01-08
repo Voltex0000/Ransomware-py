@@ -38,3 +38,10 @@ This tool is for EDUCATIONAL USE ONLY. The developers are not responsible for an
     Persistence: Adds payload to Windows Startup registry.
     Fake Update: Displays a "Working on updates" screen during encryption.
     One-Click Compilation: Built-in PyInstaller integration to generate .exe files instantly.
+
+
+
+   Why Python Files Obfsucated ??
+
+    Anyone Editing The tools And seling the tools but im publish for free
+  
